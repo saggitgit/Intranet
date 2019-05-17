@@ -104,8 +104,8 @@
                     <span class="three-d-box"><span class="front">Alumnos</span><span class="back">Alumnos</span></span>
                 </a>
                 <ul>
-                    <li>
-                        <a href="#" class="three-d">
+                     <li>
+                        <a href="?alu_com" class="three-d">
                             Compra/Venta Libros
                             <span class="three-d-box"><span class="front">Compra/Venta Libros</span><span class="back">Compra/Venta Libros</span></span>
                         </a>
